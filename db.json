@@ -1,0 +1,94 @@
+{
+  "listings": [
+    {
+      "image": "https://ap.rdcpix.com/2dd809f911ee5977d2932494d33a8169l-m3662544703od-w480_h360_x2.webp",
+      "price": 360000,
+      "location": "Austin",
+      "favorite": true,
+      "id": 1,
+      "isSold": true
+    },
+    {
+      "image": "https://ap.rdcpix.com/c071c84822db60c4e22862a38e165276l-m1800453417od-w1024_h768_x2.webp",
+      "price": 410000,
+      "location": "Cedar Park",
+      "favorite": true,
+      "id": 2,
+      "isSold": false
+    },
+    {
+      "image": "https://ap.rdcpix.com/93cd34496f75b54afaf94f6920110240l-m4264256608od-w480_h360_x2.webp",
+      "price": "475000",
+      "location": "Austin",
+      "favorite": false,
+      "id": 5
+    },
+    {
+      "image": "https://ap.rdcpix.com/f7f423920949ec13af74f68470bd97b6l-m1393177967od-w480_h360_x2.webp",
+      "price": "550000",
+      "location": "Austin",
+      "favorite": false,
+      "id": 6,
+      "isSold": false
+    },
+    {
+      "image": "https://ap.rdcpix.com/d1cc003b4ef8d5630e46c29d88baf442l-m4007217422od-w480_h360_x2.webp",
+      "price": "280000",
+      "location": "Leander",
+      "favorite": false,
+      "id": 7,
+      "isSold": false
+    },
+    {
+      "image": "https://ap.rdcpix.com/a97379c4aa254b25795cf2be3d35f6e6l-m3141426177od-w480_h360_x2.webp",
+      "price": "355500",
+      "location": "Cedar Park",
+      "favorite": false,
+      "id": 8
+    },
+    {
+      "image": "https://ap.rdcpix.com/df6e6938926bad05799ae29b43f0d132l-m3513086263od-w480_h360_x2.webp",
+      "price": "447000",
+      "location": "Cedar Park",
+      "favorite": false,
+      "id": 9
+    },
+    {
+      "image": "https://ap.rdcpix.com/df6e6938926bad05799ae29b43f0d132l-m3513086263od-w480_h360_x2.webp",
+      "price": "475500",
+      "location": "Cedar Park",
+      "favorite": false,
+      "id": 12
+    },
+    {
+      "image": "https://ap.rdcpix.com/36c3c200e7aefcc0bbca7c76d7049a24l-m2295592647od-w480_h360_x2.webp",
+      "price": "375000",
+      "location": "Cedar Park",
+      "favorite": true,
+      "id": 13
+    },
+    {
+      "image": "https://ap.rdcpix.com/405c4c68c22cd1c564aae17b9e10537dl-m3496819907od-w480_h360_x2.webp",
+      "price": "485000",
+      "location": "Leander",
+      "favorite": true,
+      "id": 14
+    },
+    {
+      "image": "https://ap.rdcpix.com/c12b0ee6a272b9bd2ece9a9cf821e813l-m2089453946od-w480_h360_x2.webp",
+      "price": "399000",
+      "location": "Leander",
+      "favorite": false,
+      "id": 15,
+      "isSold": false
+    },
+    {
+      "image": "https://ap.rdcpix.com/2058b1a80770a51d4219a5d1ce83300dl-m1743554699od-w480_h360_x2.webp",
+      "price": "345000",
+      "location": "austin",
+      "favorite": true,
+      "id": 16,
+      "isSold": false
+    }
+  ]
+}
